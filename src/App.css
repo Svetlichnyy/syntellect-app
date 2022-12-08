@@ -1,0 +1,14 @@
+*{
+    margin: auto;
+    text-align: center;
+    font-size: large;
+}
+.suggest{
+padding: 10px;
+margin: 10px;
+cursor: pointer;
+border: 1px solid black;
+}
+input{
+    margin: 10px;
+}
